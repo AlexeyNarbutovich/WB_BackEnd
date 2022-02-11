@@ -1,0 +1,11 @@
+{
+    "/js/app.js": "/js/app.js",
+    "/css/style.css": "/css/style.css",
+    "/images/.DS_Store": "/images/.DS_Store",
+    "/fonts/roboto-condensed-v19-latin_cyrillic-300italic.woff": "/fonts/roboto-condensed-v19-latin_cyrillic-300italic.woff",
+    "/fonts/roboto-condensed-v19-latin_cyrillic-300italic.woff2": "/fonts/roboto-condensed-v19-latin_cyrillic-300italic.woff2",
+    "/fonts/roboto-condensed-v19-latin_cyrillic-700.woff": "/fonts/roboto-condensed-v19-latin_cyrillic-700.woff",
+    "/fonts/roboto-condensed-v19-latin_cyrillic-700.woff2": "/fonts/roboto-condensed-v19-latin_cyrillic-700.woff2",
+    "/fonts/roboto-condensed-v19-latin_cyrillic-regular.woff": "/fonts/roboto-condensed-v19-latin_cyrillic-regular.woff",
+    "/fonts/roboto-condensed-v19-latin_cyrillic-regular.woff2": "/fonts/roboto-condensed-v19-latin_cyrillic-regular.woff2"
+}
